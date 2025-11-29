@@ -1,4 +1,4 @@
-const Allbody=document.querySelector(".Allproject")
+const Allbody=document.querySelector(".content")
 const Display=document.querySelector(".display")
 
 Allbody.addEventListener('click',(e)=>{
